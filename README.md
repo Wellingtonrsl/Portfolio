@@ -17,10 +17,7 @@ O WRL Systems oferece uma variedade de ferramentas e funcionalidades para atende
 - Gerenciamento de Vendas e Compras
 - Gestão Financeira (Contas a Pagar e a Receber)
 - Interface de Usuário Intuitiva
-
-## Layout web
-
-
+  
 # Tecnologias utilizadas
 ## Back end
 - JavaScript
